@@ -1,1 +1,2 @@
-# ra-composition-cards
+# ra-composition-cards [![Build status](https://ci.appveyor.com/api/projects/status/29airmlh4313glrx?svg=true)](https://ci.appveyor.com/project/barsich/ra-composition-cards)
+[GithubPages](https://barsich.github.io/ra-composition-cards/)
