@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import Card from './components/Card';
 import CardWithPic from './components/CardWithPic';
-import CardBody from './components/CardWithPic/CardBody';
+import CardBody from './components/CardBody';
 import pic from './images/rat.jpg';
 
 const card = {
